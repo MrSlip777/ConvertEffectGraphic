@@ -1,0 +1,9 @@
+G:\Game_illust\MachineTree\GItHubTest\ConvertEffectGraphic\ConvertEffectGraphic\bin\Debug\ConvertEffectGraphic.exe.config
+G:\Game_illust\MachineTree\GItHubTest\ConvertEffectGraphic\ConvertEffectGraphic\bin\Debug\ConvertEffectGraphic.exe
+G:\Game_illust\MachineTree\GItHubTest\ConvertEffectGraphic\ConvertEffectGraphic\bin\Debug\ConvertEffectGraphic.pdb
+G:\Game_illust\MachineTree\GItHubTest\ConvertEffectGraphic\ConvertEffectGraphic\obj\Debug\ConvertEffectGraphic.csprojResolveAssemblyReference.cache
+G:\Game_illust\MachineTree\GItHubTest\ConvertEffectGraphic\ConvertEffectGraphic\obj\Debug\ConvertEffectGraphic.Properties.Resources.resources
+G:\Game_illust\MachineTree\GItHubTest\ConvertEffectGraphic\ConvertEffectGraphic\obj\Debug\ConvertEffectGraphic.csproj.GenerateResource.Cache
+G:\Game_illust\MachineTree\GItHubTest\ConvertEffectGraphic\ConvertEffectGraphic\obj\Debug\ConvertEffectGraphic.exe
+G:\Game_illust\MachineTree\GItHubTest\ConvertEffectGraphic\ConvertEffectGraphic\obj\Debug\ConvertEffectGraphic.pdb
+G:\Game_illust\MachineTree\GItHubTest\ConvertEffectGraphic\ConvertEffectGraphic\obj\Debug\ConvertEffectGraphic.Form1.resources
